@@ -1,0 +1,9 @@
+<strong>sayHello(credsName=antoine)</strong>
+
+<p>Permet de dire bonjour à un humain, impressionnant !.</p>
+<p>
+<code>credsName</code> is optional:
+<ul>
+    <li><p>Si pas de prénom passé en paramètre, human sera utilisé</p></li>
+</ul>
+</p>
